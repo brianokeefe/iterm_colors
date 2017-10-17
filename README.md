@@ -1,2 +1,1 @@
-# iterm_colors
-my item colors
+just the color scheme i use for iterm
